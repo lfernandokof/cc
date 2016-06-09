@@ -23,3 +23,6 @@ fa
 f
 
 system.out.println("fer");
+out
+println
+system
